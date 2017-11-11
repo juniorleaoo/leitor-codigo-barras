@@ -67,8 +67,7 @@ Observação: Esse aprimoramente será feito somente com os números com status 
 
 ## Exemplos
 
-
-
+```
 #1
 Entrada:
  _  _  _  _  _  _  _  _  _ 
@@ -158,3 +157,4 @@ Entrada:
 
 Saída:
 123456789
+```
